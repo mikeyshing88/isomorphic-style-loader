@@ -1,9 +1,8 @@
 {
-  "private": true,
-  "name": "isomorphic-style-loader",
-  "version": "5.1.0",
+  "name": "isomorphic-style-loader-forked",
+  "version": "5.1.5",
   "description": "CSS style loader for Webpack optimized for critical path CSS rendering and isomoprhic web apps",
-  "repository": "kriasoft/isomorphic-style-loader",
+  "repository": "mikeyshing88/isomorphic-style-loader",
   "author": "Kriasoft <hello@kriasoft.com> (https://www.kriasoft.com)",
   "contributors": [
     "Konstantin Tarkus <hello@tarkus.me> (https://medium.com/@tarkus)",
